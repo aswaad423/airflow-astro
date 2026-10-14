@@ -1,0 +1,8 @@
+apache-airflow-providers-mysql
+requests
+
+matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
